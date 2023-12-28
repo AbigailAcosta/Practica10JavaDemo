@@ -1,0 +1,2 @@
+Codigo,NombreRecursosHumanos,CargoRecursosHumanos,EspecialidadRecursosHumanos
+1,Oscar Ayala,Jefe,Gestion
